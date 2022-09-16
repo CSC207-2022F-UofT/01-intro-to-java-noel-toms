@@ -160,7 +160,6 @@ public class Basics {
      * Return the sum of all integers at odd indices in the given array.
      * If there are no items at odd indices (e.g. a list with 0 or 1 elements),
      * return 0.
-     *
      * (Relevant readings: 1.6. Arrays and 1.8.2. for Loops)
      *
      * @param arr    An array of integers

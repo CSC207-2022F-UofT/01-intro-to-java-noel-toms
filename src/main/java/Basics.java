@@ -157,7 +157,6 @@ public class Basics {
      * 7. Below is a method that takes in an integer array (similar to a list
      *    of integers). The method's name is 'oddSum' and it returns an int
      *    as indicated by the 'int' in the method header.
-     *
      * Return the sum of all integers at odd indices in the given array.
      * If there are no items at odd indices (e.g. a list with 0 or 1 elements),
      * return 0.

@@ -122,7 +122,6 @@ public class Basics {
      * Create a String named 'ret' and get the first letter of
      * each word inside to_string. to_string is a String containing exactly
      * 7 words, separated by spaces.
-     *
      * You may want to use String.split() and String.charAt() methods.
      * See 1.5.2. APIs for their APIs.
      *
